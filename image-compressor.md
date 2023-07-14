@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -65,7 +64,7 @@ layout: default
                     <a href="/">HOME</a>
                   </li>
                   <li>
-                    <a href="/image-compressor.md">IMAGE COMPRESSOR</a>
+                    <a href="/image-compressor">IMAGE COMPRESSOR</a>
                   </li>
                   <li>
                     <a href="/">PORTFOLIO</a>
@@ -88,7 +87,7 @@ layout: default
             <a href="/">HOME</a>
           </li>
           <li>
-            <a href="/image-compressor.md">IMAGE COMPRESSOR</a>
+            <a href="/image-compressor">IMAGE COMPRESSOR</a>
           </li>
           <li>
             <a href="/">PORTFOLIO</a>
